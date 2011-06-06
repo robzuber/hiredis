@@ -4,3 +4,11 @@
 /*.so
 /*.dylib
 /*.a
+*.la
+Makefile
+config.h
+config.status
+config.log
+libtool
+stamp-h1
+.deps/
