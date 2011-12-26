@@ -12,5 +12,7 @@ config.status
 config.log
 libtool
 stamp-h1
+autom4te.cache/
+config.h.in~
 .deps/
 .libs/
